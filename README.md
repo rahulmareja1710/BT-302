@@ -1,4 +1,4 @@
-# Code and data for "Classification and Specific Primer Design for Accurate Detection of SARS-CoV-2 Using Deep Learning"
+# Classification of SARS-CoV-2 genomes Using Machine Learning
 
 This repository contains the code of the scripts, the information to retrieve the data, and the instructions to reproduce the experiments for the paper "Classification and Specific Primer Design for Accurate Detection of SARS-CoV-2 Using Deep Learning", currently submitted to Nature Scientific Reports.
 
